@@ -36,3 +36,9 @@ p{
     flex-wrap: wrap;
     justify-content: space-around;
 }
+
+.c2{
+    flex-basis: 50%;
+    min-width: 300px;
+
+}
