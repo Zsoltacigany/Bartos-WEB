@@ -1,0 +1,12 @@
+div{
+    background-color: antiquewhite;
+    
+    font-size: medium;
+    font-family: fantasy;
+
+
+    border: 12px;
+    border-color: black;
+    border-style: groove;
+
+}
