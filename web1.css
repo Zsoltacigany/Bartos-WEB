@@ -29,3 +29,10 @@ a{
 p{
     color: #555;
 }
+
+.rak{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
